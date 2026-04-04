@@ -1,0 +1,13 @@
+# ERP API 依賴套件
+
+# Web 框架
+Flask==3.0.0
+flask-cors==4.0.0
+
+# JWT 認證
+PyJWT==2.8.0
+
+# 資料庫 (SQLite 內建，無需額外安裝)
+
+# 其他工具
+python-dotenv==1.0.0
